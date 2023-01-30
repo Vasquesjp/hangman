@@ -2,7 +2,9 @@
   Hangman Game / Jogo da Forca
 </h1>
 <div align="center">
-  <img alt="Demo" src="./public/screen.gif" width="75%"/>
+
+  ![screen](https://raw.githubusercontent.com/Vasquesjp/hangmanGame/main/public/ezgif-4-79f721abe3.gif)
+
 </div>
 
 <br/>
@@ -45,4 +47,4 @@
 
 # 
 [![linkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpvasques/)
-[![linkedIn](https://img.shields.io/badge/VASQUESJP-000000?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://vasquesjp.github.io/)
+[![personalPage](https://img.shields.io/badge/VASQUESJP-000000?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://vasquesjp.github.io/)
